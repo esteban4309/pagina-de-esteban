@@ -139,15 +139,15 @@
         
         float:left;
         
-        height: 350px;
+        height: 250px;
         
-        width: 680px;
+        width: 0px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("fondotecno2.jpg");
+        background-image: url("");
         
         }
         
@@ -189,7 +189,7 @@
             
             float:left;
             
-            height: 200px;
+            height: 250px;
             
             width: 0px;
             
@@ -240,15 +240,15 @@
     
     float:left;
     
-    height: 200px;
+    height: 250px;
     
-    width: 480px;
+    width: 0px;
     
     margin-left: 5px;
     
     margin-right:5px;
     
-    background-image: url("fondomate2.webp");
+    background-image: url("");
     
     }
     
@@ -291,15 +291,15 @@
         
         float:left;
         
-        height: 800px;
+        height: 250px;
         
-        width: 1150px;
+        width: 0px;
         
-        margin-left: 170px;
+        margin-left: 5px;
         
-        margin-right:  100px;
+        margin-right:  5px;
         
-        background-image: url("68f2ddaf-2425-4887-a58c-bbf8977e8348.jpg");
+        background-image: url("");
         
         }
         
@@ -397,7 +397,7 @@
                 
                 width: 0px;
                 
-                margin-left: 5spx;
+                margin-left: 5px;
                 
                 margin-right: 5px;
                 
