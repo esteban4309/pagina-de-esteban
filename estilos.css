@@ -110,7 +110,7 @@
     
     text-align: justify;
     
-    color: brown;
+    color: rgb(255, 255, 255);
     
      
     
@@ -291,15 +291,15 @@
         
         float:left;
         
-        height: 250px;
+        height: 2000px;
         
-        width: 0px;
+        width: 800px;
         
-        margin-left: 5px;
+        margin-left: 250px;
         
         margin-right:  5px;
         
-        background-image: url("");
+        background-image: url("La\ revolucion\ industrial.jpg");
         
         }
         
